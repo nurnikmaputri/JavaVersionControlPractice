@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//modul 3
 public class Main {
 
     // Fungsi utama program
